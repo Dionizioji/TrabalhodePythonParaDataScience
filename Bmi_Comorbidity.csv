@@ -1,0 +1,8 @@
+who_bmi,  risk_of_comorbidity
+Normal, Average
+Overweight,Increased
+Underweight,Severe
+Classs I Obesity,Very Severe
+Not Avaiable,Not Avaiable
+Class II Obesity,Very Severe
+Class III Obesity,Very Severe
